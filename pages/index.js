@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Button from "@material-tailwind/react/components/Button";
-import Texteditor from "../components/texteditor";
+import Texteditor from "../components/Texteditor";
 export default function Home() {
   return (
     <div>
